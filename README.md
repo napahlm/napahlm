@@ -1,5 +1,1 @@
-I like drones.
-
-Know some C++, know more Python.
-
-Pretty fluent in waterproofing.
+Wondering how to mix painting and programming into something useful.
