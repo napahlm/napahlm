@@ -11,4 +11,9 @@ current projects<br>
 interests<br>
 \- fighting games, judo, h4ck1ng, tinkering, ot/ics, traveling
 
-[![tryhackme badge](assets/tryhackme-badge.png)](https://tryhackme.com/p/napahlm)
+<a href="https://tryhackme.com/p/napahlm">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="badges/thm-adventure-dark.gif">
+    <img alt="TryHackMe badge" src="badges/thm-adventure-light.gif" width="644">
+  </picture>
+</a>
