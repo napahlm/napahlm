@@ -13,7 +13,7 @@ interests<br>
 
 <a href="https://tryhackme.com/p/napahlm">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="badges/thm-adventure-dark.gif">
-    <img alt="TryHackMe badge" src="badges/thm-adventure-light.gif" width="644">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/napahlm/napahlm/main/badges/thm-bloodmoon-dark.gif">
+    <img alt="TryHackMe: napahlm" src="https://raw.githubusercontent.com/napahlm/napahlm/main/badges/thm-bloodmoon-light.gif" width="644">
   </picture>
 </a>
